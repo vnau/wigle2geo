@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Wigle2Geo.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "network --ssid \"Govee%|GVH%\""
+    }
+  }
+}

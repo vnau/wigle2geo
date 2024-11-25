@@ -1,0 +1,6 @@
+@Wigle2Geo_HostAddress = http://localhost:5195
+
+GET {{Wigle2Geo_HostAddress}}/networks/
+Accept: application/json
+
+###
